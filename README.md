@@ -9,7 +9,7 @@ These can be send either to:
 * Personal User Chat
 
 Please note that **only** the transport is encrypted, but not the actual
-messages. (They can be seen be Telegram employees).
+messages. (They can be seen by Telegram employees).
 
 Start by [creating a new bot](https://core.telegram.org/bots#create-a-new-bot).
 
